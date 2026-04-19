@@ -24,7 +24,7 @@ Today, I'm a well rounded developer capable of building complex systems from scr
 - Spec driven development with Codex (Harness engineering is next on my to-learn list!)
 
 ## 🎓 ACADEMIC BACKGROUND
-- Universidade São Francisco — Psychology — 2025/2029 (_In progress_)
+- Universidade São Francisco — **Psychology** — 2025/2029 (_In progress_)
 - Universidade Estácio de Sá — **System Analysis and Development** — 2021/2023 (_Complete_)
 - Universidade Federal de Santa Catarina — **Aerospace Engineering** — 2014/2015 (_Dropped out_)
 
