@@ -7,6 +7,7 @@ Since then, I've evolved into a more structured developer, combining my hands-on
 Today, I'm a well rounded developer capable of building complex systems from scratch while maintaining a scalable architecture and writing clean code.
 
 **Contact**
+
 Discord: victorscape (UID: 1308954104323899424)
 
 <!--
