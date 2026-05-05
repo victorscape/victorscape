@@ -4,7 +4,9 @@ I'm Victor, a self-taught developer from Brazil. I started learning how to code 
 
 Since then, I've evolved into a more structured developer, combining my hands-on experience with a formal education in _System Analysis and Development_ (2023).
 
-Today, I'm a well rounded developer capable of building complex systems from scratch while maintaining a scalable architecture and writing clean code.
+Today, I'm a well rounded developer capable of building complex systems from scratch while following SOLID best practices and using a scrum-style workflow on my personal projects.
+
+While i'm currently focusing on my own project, i'm always open for better opportunities or more interesting projects. You can reach out to me at discord at any time.
 
 **Contact**
 ---
