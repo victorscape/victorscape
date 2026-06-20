@@ -2,8 +2,8 @@
 
 I'm Victor, a self-taught developer from Brazil. I started learning how to code around 2020 by downloading runescape private servers source code from the internet and experimenting with it. Today I am a well rounded developer who has worked on multiple real world projects :)
 
----
-Discord: victorscape (UID: 1308954104323899424)
+📫 You can always reach me at Discord:
+victorscape (UID: 1308954104323899424)
 
 <!--
 **victorscape/victorscape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
