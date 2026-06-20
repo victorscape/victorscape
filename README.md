@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Victor, a self-taught developer from Brazil. I started learning how to code around 2020 by downloading runescape private servers source code from the internet and experimenting with it — breaking things, fixing things and gradually understanding how everything worked under the hood. 
+I'm Victor, a self-taught developer from Brazil. I started learning how to code around 2020 by downloading runescape private servers source code from the internet and experimenting with it. Today I am a well rounded developer who has worked on multiple real world projects :)
 
 ---
 Discord: victorscape (UID: 1308954104323899424)
